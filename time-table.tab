@@ -1,0 +1,7 @@
+#date	name	name	#disabled	name
+#arrange with `awk '{OFS="\t"}{print $1,$2,$3,...}'`
+#columns and rows can be commented
+#the column names must be on the first line
+#2010-07-19	28:16	33:24	-	-
+2010-08-23	28:57	-	30:50	35:15
+2010-09-13	28:36	30:16	-	32:18
